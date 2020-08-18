@@ -5,7 +5,7 @@
 # layout: home
 layout: page
 title: /overview
-permalink: /
+permalink: /mdn
 ---
                                                                                                                                                                                                                                                                                     
 # Wordplay: When Language Meets Games @ NeurIPS 2020.
