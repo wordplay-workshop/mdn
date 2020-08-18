@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /preceding_versions
+title: Preceding Versions
 permalink: /preceding/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /organizers
+title: Organizers
 permalink: /organizers
 ---
 <img width="300"/>| <img width="300"/> |<img width="300"/> |

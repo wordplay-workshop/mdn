@@ -4,7 +4,7 @@
 
 # layout: home
 layout: page
-title: /overview
+title: Index
 permalink: /mdn
 ---
                                                                                                                                                                                                                                                                                     
