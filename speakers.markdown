@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /speakers
-permalink: /mdn/speakers/
+permalink: /speakers/
 ---
 
 

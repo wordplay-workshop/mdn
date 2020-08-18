@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /organizers
-permalink: /organizers/
+permalink: /organizers
 ---
 <img width="300"/>| <img width="300"/> |<img width="300"/> |
 :---------------:|:---------------:|:-------------:

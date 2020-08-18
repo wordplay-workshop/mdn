@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /call_for_papers
-permalink: /mdn/cfp/
+permalink: /cfp/
 ---
 
 **Submission website:** To be announced.
