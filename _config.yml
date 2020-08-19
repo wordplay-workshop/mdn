@@ -31,7 +31,8 @@ url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for y
 # Build settings
 
 
-theme: minima
+# theme: minima
+remote_theme: wordplay-workshop/minima
 plugins:
   - jekyll-feed
 
