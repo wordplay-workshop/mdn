@@ -33,7 +33,7 @@ url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for y
 
 # theme: minima
 # remote_theme: wordplay-workshop/minima
-theme: affiliates-jekyll-theme
+remote_theme: wordplay-workshop/bulma-clean-theme
 plugins:
   - jekyll-feed
 
